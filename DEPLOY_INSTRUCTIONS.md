@@ -52,3 +52,4 @@ git push -u origin main
 ## 4. Verification
 
 Visit [https://wmlights.com](https://wmlights.com) to verify your site is live.
+
