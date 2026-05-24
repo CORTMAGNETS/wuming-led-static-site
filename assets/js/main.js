@@ -21,5 +21,5 @@ forms.forEach(form=>form.addEventListener('submit',(e)=>{
   const lines = [];
   data.forEach((value,key)=>lines.push(`${key}: ${value}`));
   const body = encodeURIComponent(lines.join('\n'));
-  window.location.href = `mailto:sales@example.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:sales@wmlights.com?subject=${subject}&body=${body}`;
 }));

@@ -28,8 +28,8 @@ This is a deployable static B2B LED lighting website package inspired by the str
 
 ## Must replace before official launch
 
-- Replace `sales@example.com`, phone and WhatsApp in all files.
-- Replace `https://example.com` in canonical URLs and sitemap with your real domain.
+- Replace `sales@wmlights.com`, phone and WhatsApp in all files.
+- Replace `https://wmlights.com` in canonical URLs and sitemap with your real domain.
 - Replace demo project cases with your real cases.
 - Add real product photos, certificates, test reports and catalog PDFs.
 - Replace the static mailto form with Formspree, Basin, HubSpot, Tally, or a Cloudflare Worker endpoint.
